@@ -4,6 +4,14 @@ Sou um entusiasta da tecnologia, veggie de carteirinha, LGBTQIAP+ e sempre ligad
 - 🌱 Estudando Python
 - 😄 Pronomes: ele/dele
 
+
+### Hello! I'm Mapa. ✌️
+I'm a technology enthusiast, proud vegetarian, LGBTQIAP+ individual, and always mindful of sustainability.
+
+- 🔭 Today I work with software testing.
+- 🌱 Studying Python.
+- 😄 Pronouns: he/him.
+
 ![Mapa GitHub stats](https://github-readme-stats.vercel.app/api?username=mapademarcos&show_icons=true&theme=merko)
 
 <div>
